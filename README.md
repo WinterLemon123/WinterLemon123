@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SunProgramNoob
-- 😎 Aaaaaaand I wanna say something else
+- 😎 And I wanna say something else
 - 😒 Things that GitHub gave was boring
-- 🙌 I'm Chinese, so my English might be a little bit bad
-- 💖 I like all you guys! GitHub is sooooooo good!(well, a bit lag in China)
+- 😊 'Sun' is actually my surname 'cause I'm Chinese
+- 👍 I'm now trying to make a game
+- 💖 If you guys have any ideas, then comment below
 - 😘 Bye!
 
 <!---
